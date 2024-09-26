@@ -9,7 +9,7 @@
     <div id="oceny"></div>
 </body>
 <script>
- ocena=prompt('podaj ocene');
+ ocena=parseInt(prompt('podaj ocene'));
 switch(ocena){
     case 1:
         oceny.innerHTML=('Niedostateczny');
@@ -30,7 +30,7 @@ switch(ocena){
         oceny.innerHTML=('Celujacy');
         break;
              default: 
-             oceny.innerHTML=('nieznana ocena');
+             oceny.innerHTML=('Nieznana ocena');
 }
 </script>
 </html>
