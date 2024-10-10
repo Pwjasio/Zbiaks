@@ -1,0 +1,3 @@
+Dodaj ładne formatowanie do stron wyświetlanych w zadaniach od 1 do 5
+(Dla wszystkich zadań przygotuj ten sam szablon w pliku css) 
+i dołacz go do kodu strony

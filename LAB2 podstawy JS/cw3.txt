@@ -1,0 +1,10 @@
+Zdefniuj stałą o nazwie pi i wartości liczby pi czyli 3.14. Stałą pi wyświetl przy użyciu wyskakującego okienka
+
+POMOC:
+
+Stałe - wartości, które się nie zmieniają w całym skrypcie
+definiujemy używając słowa kluczowego - const.
+
+Instrukcja alert() wyświetla informacje w okienku wyskakującym.
+
+Po uruchomieniu przeglądarki sprawdź czy w okienku wyskakującym wyświetli się liczbe PI.

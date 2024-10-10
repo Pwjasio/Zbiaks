@@ -1,0 +1,7 @@
+Zapoznaj sie z opisem umieszczonym na stronie wskazanej w zalaczonym skrocie (jak optymalnie dodawac skrypt na stronie html).
+
+Zoptymalizuj kod z pliku skrypt2.html korzystajac z informacji na stronie wg schematu:
+>skrypt w odzielnym pliku .js
+>wstawienie skryptu w sekcji HEAD
+>dodaj do skryptu atrybut defer
+>wstawienie skryptu zgodnie z HTML5

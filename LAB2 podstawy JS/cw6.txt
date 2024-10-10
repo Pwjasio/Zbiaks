@@ -1,0 +1,6 @@
+Zdefiniuj zmienną a o wartości 33 i b o wartości 7. W oknie alert() wypisz działanie dodawania tych zmiennych tj. np 2 + 5 = 7.
+
+POMOC:
+
+Operator + w swoich dwóch rolach. Jako operator konkatenacji służy do łączenia
+zmiennych i ciągów tekstowych, i operator dodawania dwóch liczb.

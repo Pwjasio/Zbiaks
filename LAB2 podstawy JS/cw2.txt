@@ -1,0 +1,6 @@
+Zdefiniuj zmienną tekst o wartości "Ala ma kota". Wyświetl w konsoli wartość zmiennej.
+
+POMOC:
+
+Zmienną definiujemy używając słowa kluczowego - let.
+Po uruchomieniu przeglądarki sprawdź w konsoli przeglądarki czy tekst się wyświetlił.

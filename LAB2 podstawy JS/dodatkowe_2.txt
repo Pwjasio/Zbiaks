@@ -1,0 +1,2 @@
+Utworz na stronie kontener o identyfikatorze id="kontener" i
+przekieruj do niego wynik uzyskany w zadaniach od 1 do 7

@@ -1,0 +1,1 @@
+Uzupelnij cw1 o trzy nowe div'y o id="wynik2", id="wynik3", id="wynik4". Nastepnie na zdefiniowanych wczesniej zmiennych wykonaj podstawowe dzialania metematyczne tzn. odejmowanie, mnozenie oraz dzielenie a uzyskane wyniki wstrzyknij do odpowiednich div'ow. Zastosuj podobny format wyswietlania wyniku na stronie jak w przypadku sumowania.

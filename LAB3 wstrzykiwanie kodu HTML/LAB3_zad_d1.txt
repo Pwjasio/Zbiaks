@@ -1,0 +1,8 @@
+Utworz 5 div'ow na stronie. Oznacz je identyfikatorami.
+
+Do pierwszego div'a wpisz tekst: "To jest tekst do kopiowania"
+Pozostale div'y pozostaw puste.
+
+Skopiuj z pomaca metody innerHTML tekst z pierwszego div'a do pozostalych.
+
+Tekst ma sie kopiowac po kliknieciu na pierwszym div'ie.

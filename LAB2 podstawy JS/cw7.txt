@@ -1,0 +1,7 @@
+Pobierz za pomocą instrukcji prompt() imie uzytkownika i wyświetl w konsoli komunikat Pobrana wartość to: pobrane imie.
+
+POMOC:
+
+Instrukcja prompt() wyświetla podany jako argument komunikat a podaną przez
+użytkownika wartość przypisuje do wskazanej zmiennej. Ten sposób komunikacji obecnie jest rzadko wykorzystywany.
+W zamian korzysta się z pól lekstowych i przycisków. 

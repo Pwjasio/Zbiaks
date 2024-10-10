@@ -1,0 +1,7 @@
+Uzywajac metody write() przekieruj na strone wynik mnozenia dwoch zmiennych
+
+
+Ostrzeżenia:
+Metoda write() usuwa cały istniejący kod HTML w dokumencie przy jego ponownym ładowaniu
+
+Metoda write() nie może być używana w XHTML ani XML.

@@ -1,0 +1,11 @@
+Do treści strony wstaw div-a z id="wynik". Zdefiniuj dwie zmienne a o wartości 15 i b o wartości 5. Tekst wynik: i wynik dodawanie zmiennych wstrzyknij do div-a z id="wynik"
+
+POMOC:
+
+Chcąc wstrzyknąć kod do wybranego elementu, najpierw przypisujemy
+ten element do stałej wykorzystując metodę - querySelector().
+(Można też skorzystać z metody getElementById()).
+Następnie wstrzyjujemy do danego elementu kod HTML 
+wykorzystując metodę innerHTML().
+
+

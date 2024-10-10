@@ -1,0 +1,10 @@
+Przypisz zmiennej o nazwie zmienna najpierw wartość liczbową 100, wyświetl typ w konsoli, następnie wartość tekstową "Ala ma kota" i znowu wyświetl typ w konsoli.
+
+POMOC:
+
+Język JS ma tzw. słabe typowanie tzn. typ zmiennej może się zmieniać w trakcie działania skryptu. 
+Aktualny typ zmiennej można sprawdzić za pomocą instrukcji > typeof zmienna
+
+Typ zmiennej o nazwie zmienna, zmienia się ;-). Najpierw jest to number, potem string.
+
+w3 > JS Typeof

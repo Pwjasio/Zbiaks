@@ -1,0 +1,1 @@
+Przekieruj wynik w zadaniach od 1 do 7 z konsoli debugera bezpośrednio na stronę www

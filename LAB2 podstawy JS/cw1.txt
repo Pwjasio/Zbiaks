@@ -1,0 +1,10 @@
+Przy użyciu JS wyświetl w tzw. konsoli przeglądarki tekst "Witaj w szkole JS!"
+
+POMOC:
+
+Do wyświetlania komunikatów (informacji, stanu zmiennych i obiektów) w tzw. konsoli służy polecenie - console.log().
+
+Po uruchomieniu przeglądarki sprawdź w konsoli przeglądarki czy tekst się wyświetlił.
+
+Aby uruchomić KONSOLĘ, kliknij prawym przyciskiem, wybierz opcję ZBADAJ.
+W oknie, które wyświetli się po prawej stronie zmień kartę ELEMENTS na CONSOLE.

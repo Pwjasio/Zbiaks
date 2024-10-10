@@ -1,0 +1,1 @@
+Dolacz do kopiowanych div'ow z poprzedniego zadania formatowanie tak aby kazdy skopiowany div byl innego koloru.

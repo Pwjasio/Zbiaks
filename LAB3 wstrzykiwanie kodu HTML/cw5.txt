@@ -1,0 +1,3 @@
+Zapoznaj sie z matematycznymi metodami uzywanymi w JS (w3 > JS Math).
+Wybierz pięć dowolnych metod i przygotuj strone prezentujaca ich dzialanie.
+W zadaniu wykorzystaj wstrzykiwanie kodu JS do div'ow o wskazanym identyfikatorze.

@@ -1,0 +1,6 @@
+Zdefiniuj zmienną o nazwie opis i wartości "JavaScript to skryptowy język programowania.". Wypisz do konsoli tekst "Informacja o JavaScript:" i treść zmiennej opis.
+
+POMOC:
+
+Operator + służy do dodawania liczb, w JS ma on jeszcze jedną funkcję
+jest to tzw. operator konkatenacji czyli służy do łączenia zmiennych tekstowych.
