@@ -1,0 +1,5 @@
+Napisz program obliczający średnią arytmetyczną z ciągu liczb całkowitych podawanych przez użytkownika, zakończonych liczbą 0. Liczby 0 nie bierz pod uwagę w średniej.
+
+POMOC:
+Do wykonania tego zadania najwygodniej zastosowac petle
+do while podajac jako warunek jej dzialania liczbe rozna od 0

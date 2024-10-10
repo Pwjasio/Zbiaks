@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="wynik"></div>
+    <script>
+
+        const wynik=document.querySelector('#wynik');
+
+        //utworzenie zmiennej, która będzie przechowywać kod do wstrzyknięcia
+        let kodHTML='';
+        
+        //pętla for x - wiersze, y - kolumny
+		for ($x = 0; $x < 100; $x++) {
+			for ($y = 0; $y < 100; $y++) {
+			//kodHTML=kodHTML+"@";
+			kodHTML += "@";
+			
+			}
+		//kodHTML=kodHTML+"<br>";
+		kodHTML += "<br>";
+		} 
+		
+		
+        wynik.innerHTML=kodHTML;
+    </script>
+
+</body>
+</html>

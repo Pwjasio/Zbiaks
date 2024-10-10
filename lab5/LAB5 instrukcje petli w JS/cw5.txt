@@ -1,0 +1,1 @@
+Na stronie w jednej kolumnie wyświetl liczby malejąco od 1000 do 1. Użyj pętli for.

@@ -1,0 +1,11 @@
+Napisz program z użyciem pętli for wyświetlający:
+
+*
+**
+***
+****
+*****
+
+
+POMOC:
+Zastosuj pętlę w pętli

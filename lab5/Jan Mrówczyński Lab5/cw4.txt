@@ -1,0 +1,3 @@
+Odpowiedz: 
+Petla do-while wykonuje sie najpierw raz a nastepnie sprawdza warunek a potem ewentualnie sie dalej bedzie wykonywac.
+Petla do sprawdzania w tym przypadku sie nie wykona ani razu

@@ -1,0 +1,9 @@
+Napisz program obliczający sumę liczb nieparzystych z przedziału <x,y>. Wartości x i y podaje użytkownik.
+
+Wynik wyswietlamy w konsoli lub na stronie.
+
+
+POMOC:
+Do wyznaczenia liczby nieparzystej wykorzystaj to ze daje ona zawsze reszte z dzielenia przez 2 (operator reszty z dzielenia: %). 
+
+Zadanie najlatwiej zrobic poprzez utworzenie odpowiedniego warunku w petli for.

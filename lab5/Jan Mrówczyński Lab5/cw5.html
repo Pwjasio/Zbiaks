@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td {
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="dane"></div>
+</body>
+<script>
+    let text='<table>';
+    for(let i=1000; i>=1; i--)
+    {
+        text+='<tr><td>'+i+'</td></tr>'
+    }
+    text+='</table>';
+    document.getElementById('dane').innerHTML=text
+</script>
+</html>
